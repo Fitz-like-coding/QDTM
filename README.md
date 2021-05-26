@@ -22,6 +22,7 @@ from SOURCE_DIR, run "python prepareText.py" to preprocesse dataset. Processed d
 
 for example (for 20newsgroup dataset):
 There will be two dumped files:
+
     1. data_20news_test.txt
     2. vob_20news_test.txt
 
@@ -32,6 +33,7 @@ from SOURCE_DIR/QDTM/src, type "javac QDTM.java" to complie the code
 then, type "java QDTM" to train the model
 
 the model will output four files to "./QDTM/results":
+
     1. QDTM-20news-parent.txt       # word parent-topic assignment for each document
     2. QDTM-20news-parent_nzw.txt   # word distribution for each parent-topic 
     3. QDTM-20news-sub.txt          # word sub-topic assignment for each document
