@@ -28,12 +28,12 @@ Our model is built based on the jave implementation of Gibbs sampler HDP here: h
 
 * from SOURCE_DIR/QDTM/src, type "javac QDTM.java" to complie the code
 * then, type "java QDTM" to train the model
-* the model will output four files to "./QDTM/results":
+the model will output four files to "./QDTM/results":
 
-    1. QDTM-20news-parent.txt       > word parent-topic assignment for each document
-    2. QDTM-20news-parent_nzw.txt   > word distribution for each parent-topic 
-    3. QDTM-20news-sub.txt          > word sub-topic assignment for each document
-    4. QDTM-20news-sub_nzw.txt      > word distribution for each sub-topic 
+    1. QDTM-20news-parent.txt       # word parent-topic assignment for each document
+    2. QDTM-20news-parent_nzw.txt   # word distribution for each parent-topic 
+    3. QDTM-20news-sub.txt          # word sub-topic assignment for each document
+    4. QDTM-20news-sub_nzw.txt      # word distribution for each sub-topic 
 
 # evaluate the model:
 
