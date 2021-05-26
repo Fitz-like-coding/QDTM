@@ -31,9 +31,9 @@ Our model is built based on the jave implementation of Gibbs sampler HDP here: h
 
 * the model will output four files to "./QDTM/results":
 
-    1. QDTM-20news-parent.txt&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;#word parent-topic assignment for each document
+    1. QDTM-20news-parent.txt&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;#word parent-topic assignment for each document
     2. QDTM-20news-parent_nzw.txt&nbsp;&nbsp;&nbsp;&nbsp;#word distribution for each parent-topic 
-    3. QDTM-20news-sub.txt&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;#word sub-topic assignment for each document
+    3. QDTM-20news-sub.txt&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;#word sub-topic assignment for each document
     4. QDTM-20news-sub_nzw.txt&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;#word distribution for each sub-topic 
 
 # evaluate the model:
