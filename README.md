@@ -1,6 +1,8 @@
 # QDTM - Query-Driven Topic Model
 
-This is the source code for the ACL finding paper: **Z. Fang, Y. He and R. Procter. Query-Driven Topic Model, ACL Findings, 2021.**
+This is the source code for the ACL finding paper: 
+
+* **Z. Fang, Y. He and R. Procter. Query-Driven Topic Model, ACL Findings, 2021.**
 
 Our model is built based on the jave implementation of Gibbs sampler HDP here: https://github.com/arnim/HDP
 
