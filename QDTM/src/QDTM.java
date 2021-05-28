@@ -17,22 +17,6 @@ import java.util.stream.IntStream;
 
 import java.util.HashMap;
 
-/**
- * Hierarchical Dirichlet Processes  
- * Chinese Restaurant Franchise Sampler
- * 
- * For more information on the algorithm see:
- * Hierarchical Bayesian Nonparametric Models with Applications. 
- * Y.W. Teh and M.I. Jordan. Bayesian Nonparametrics, 2010. Cambridge University Press.
- * http://www.gatsby.ucl.ac.uk/~ywteh/research/npbayes/TehJor2010a.pdf
- * 
- * For other known implementations see README.txt
- * 
- * @author <a href="mailto:arnim.bleier+hdp@gmail.com">Arnim Bleier</a>
- */
-
-
-
 public class QDTM { 
 
 
