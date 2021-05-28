@@ -1,9 +1,3 @@
-/*
- * Copyright 2011 Arnim Bleier, Andreas Niekler and Patrick Jaehnichen
- * Licensed under the GNU Lesser General Public License.
- * http://www.gnu.org/licenses/lgpl.html
- */
-
 import java.io.FileInputStream;
 import java.io.IOException;
 import java.io.PrintStream;
