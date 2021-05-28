@@ -19,7 +19,6 @@ import java.util.HashMap;
 
 public class QDTM { 
 
-
 	public double beta  = 0.5; // default only
 	public double gamma = 1.5;
 	public double alpha = 1.0;
